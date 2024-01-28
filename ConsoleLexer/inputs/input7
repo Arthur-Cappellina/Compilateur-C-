@@ -1,0 +1,3 @@
+﻿with Ada.Text_IO; use Ada.Text_IO;
+procedure a is type a;
+begin  a := 5; end;

@@ -1,0 +1,7 @@
+﻿procedure Hello is$
+    x : Inte^ger;
+    y  : Integer;
+begin
+    x  := 2; @
+    y := x + 5; 
+end@ Hello;

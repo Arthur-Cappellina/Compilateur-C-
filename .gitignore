@@ -1,0 +1,55 @@
+﻿# Fichiers générés par Visual Studio
+.vscode/
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.bak
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Oo][Bb][Jj]/
+[Ll][Oo][Gg]/
+[Ll][Ii][Bb]/
+[Nn][Aa][Tt][Ii][Vv][Ee]/
+*.dll
+*.exe
+
+# Fichiers de configuration spécifiques à Visual Studio
+*.sln.iml
+
+# Fichiers de sauvegarde et fichiers de cache de ReSharper
+_ReSharper*/
+*.resharper.user
+*.resharper.sln.dotSettings
+
+# Fichiers de sauvegarde de Rider
+.idea
+.idea/.idea.DotSettings
+
+# Fichiers de sauvegarde de Rider et ReSharper
+.idea/.idea.DotSettings.user
+
+# Fichiers de sauvegarde de Rider
+.idea/.idea.DotSettings.DotSettings.user
+
+# Dossiers de packages NuGet
+packages/
+*.nupkg
+[Oo]bj/
+[Bb]in/
+[Ll]og/
+
+# Fichiers de projet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Fichiers de sauvegarde de Visual Studio Code
+.vscode/

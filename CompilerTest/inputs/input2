@@ -1,0 +1,12 @@
+﻿-- Ceci est un commentaire, il ne doit pas être dans les tokens.
+procedure Hello is
+    x : Integer;
+    y : Integer;
+    --Ceci est un deuxième commentaire.
+    
+                                  
+                                                
+begin
+    x := 2;
+    y := x + 5; --Troisième commentaire, il se trouve en fin de ligne.
+end Hello;

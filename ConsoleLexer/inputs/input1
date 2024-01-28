@@ -1,0 +1,12 @@
+with Ada.Text_IO; use Ada.Text_IO;
+procedure Hello is
+    x : Integer;
+    y : Integer;   
+begin
+    x := 2; --peanuts 54
+    y := x - 5;
+    if x <= 1
+        then x := 2
+        else x := 4 / 2;
+    end if;
+end Hello;
